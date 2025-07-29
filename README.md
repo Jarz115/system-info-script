@@ -5,8 +5,5 @@ If the script doesn't run, this is due to Windows marking it as blocked.
 
 Right click the .ps1 file
 
-Click properties
+Click properties and unblock.
 
-At the bottom of the window, check  Unblock
-
-Click Apply and it should work.
